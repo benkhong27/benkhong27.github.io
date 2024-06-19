@@ -10,8 +10,12 @@
     "vercel-build": "npm run build"
   },
   "dependencies": {
-    "next": "^13.0.0", // Use the appropriate version
+    "next": "^13.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^X.Y.Z" // Replace X.Y.Z with the latest version of gh-pages if needed
   }
 }
+
